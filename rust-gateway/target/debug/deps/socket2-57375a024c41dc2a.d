@@ -1,0 +1,11 @@
+C:\Users\vamsh\Downloads\Compressed\ECG\rust-gateway\target\debug\deps\socket2-57375a024c41dc2a.d: C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\lib.rs C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\sockaddr.rs C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\socket.rs C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\sockref.rs C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\sys\windows.rs
+
+C:\Users\vamsh\Downloads\Compressed\ECG\rust-gateway\target\debug\deps\libsocket2-57375a024c41dc2a.rlib: C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\lib.rs C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\sockaddr.rs C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\socket.rs C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\sockref.rs C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\sys\windows.rs
+
+C:\Users\vamsh\Downloads\Compressed\ECG\rust-gateway\target\debug\deps\libsocket2-57375a024c41dc2a.rmeta: C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\lib.rs C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\sockaddr.rs C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\socket.rs C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\sockref.rs C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\sys\windows.rs
+
+C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\lib.rs:
+C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\sockaddr.rs:
+C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\socket.rs:
+C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\sockref.rs:
+C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\sys\windows.rs:

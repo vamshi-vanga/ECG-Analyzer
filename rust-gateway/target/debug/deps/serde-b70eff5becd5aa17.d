@@ -1,0 +1,14 @@
+C:\Users\vamsh\Downloads\Compressed\ECG\rust-gateway\target\debug\deps\serde-b70eff5becd5aa17.d: C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs C:\Users\vamsh\Downloads\Compressed\ECG\rust-gateway\target\debug\build\serde-774097fa1c790350\out/private.rs
+
+C:\Users\vamsh\Downloads\Compressed\ECG\rust-gateway\target\debug\deps\libserde-b70eff5becd5aa17.rlib: C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs C:\Users\vamsh\Downloads\Compressed\ECG\rust-gateway\target\debug\build\serde-774097fa1c790350\out/private.rs
+
+C:\Users\vamsh\Downloads\Compressed\ECG\rust-gateway\target\debug\deps\libserde-b70eff5becd5aa17.rmeta: C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs C:\Users\vamsh\Downloads\Compressed\ECG\rust-gateway\target\debug\build\serde-774097fa1c790350\out/private.rs
+
+C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs:
+C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs:
+C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs:
+C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs:
+C:\Users\vamsh\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs:
+C:\Users\vamsh\Downloads\Compressed\ECG\rust-gateway\target\debug\build\serde-774097fa1c790350\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\vamsh\\Downloads\\Compressed\\ECG\\rust-gateway\\target\\debug\\build\\serde-774097fa1c790350\\out

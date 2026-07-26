@@ -1,2 +1,7 @@
 ecg-fm/
 fairseq-signals/
+
+
+# Added by cargo
+
+/target

@@ -4,7 +4,7 @@ An advanced, microservices-based application designed to analyze Electrocardiogr
 
 This project implements a highly scalable architecture, splitting the workload across a modern React frontend, a blazing-fast Rust API Gateway, and a heavy Python machine learning backend.
 
-## 🏗️ System Architecture
+##  System Architecture
 
 The application is built using a **Microservices Architecture** to ensure separation of concerns, high performance, and safe dependency management.
 
@@ -22,7 +22,7 @@ The application is built using a **Microservices Architecture** to ensure separa
 
 ---
 
-# 🏗️ System Architecture Deep Dive
+#  System Architecture Deep Dive
 
 This document outlines the detailed flow of data and the architectural decisions behind the **ECG Analyzer** microservices ecosystem.
 

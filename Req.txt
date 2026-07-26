@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+pandas
+numpy
+Pillow
+pdf2image
+pytesseract
+reportlab
+plotly
+python-dotenv
+requests

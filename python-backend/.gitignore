@@ -1,0 +1,27 @@
+# --- Node & Frontend ---
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# --- AI Models & Python ---
+*.pt
+*.ckpt
+mimic_iv_ecg_finetuned.pt
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+ecgfm_env*/
+ecg-fm/
+fairseq-signals/
+
+# --- Rust Gateway ---
+target/
+Cargo.lock
+
+# --- OS Artifacts ---
+.DS_Store
+Thumbs.db
